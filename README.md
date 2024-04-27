@@ -1,5 +1,5 @@
 # [GitHub](https://github.com/PP09PetyaDecryptor)
-# Hi! Do you want a playing, watching, competing or streaming status? You come to right place.
+# Hi! Do you want a playing, watching, listening, competing or streaming status? You come to right place.
 
 # Do you want a RPC like this?
 ![image](https://github.com/PP09PetyaDecryptor/PP09/assets/166217226/5dca3a46-4332-4b3d-ad16-56a09ba33314)
@@ -10,5 +10,14 @@
 Let's start!
 
 # Step 1 - **Editing `index.js` file.**
+
+First, let's edit `index.js`.
+
+Fork this repository.
+If you forked repo, go to `index.js`.
+
+You will see so many scripts.
+
+
 
 
