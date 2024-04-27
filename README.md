@@ -9,4 +9,6 @@
 
 Let's start!
 
+# Step 1 - **Editing `index.js` file.**
+
 
