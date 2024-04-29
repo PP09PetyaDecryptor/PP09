@@ -12,7 +12,7 @@ function formatTime() { //Credits to V𝕀ꋊΛꌦ#1010
   const date = new Date();
   const options = {
     timeZone: 'Asia/Calcutta', //https://www.zeitverschiebung.net/en/ and find your city and enter here
-    hour12: true,
+    hour12: false,
     hour: 'numeric',
     minute: 'numeric'
   };
