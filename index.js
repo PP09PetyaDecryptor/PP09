@@ -11,7 +11,7 @@ const client = new Discord.Client({
 function formatTime() { //Credits to V𝕀ꋊΛꌦ#1010
   const date = new Date();
   const options = {
-    timeZone: 'Asia/Calcutta', //https://www.zeitverschiebung.net/en/ and find your city and enter here
+    timeZone: 'Europe/Warsaw', //https://www.zeitverschiebung.net/en/ and find your city and enter here
     hour12: false,
     hour: 'numeric',
     minute: 'numeric'
@@ -39,7 +39,7 @@ client.on('ready', async () => {
     .addButton('JOIN ROBOX', 'https://dsc.gg/roblox-i-gadanie-pl/');
 
   client.user.setActivity(r);
-  client.user.setPresence({ status: "idle" }); //dnd, online, idle, offline
+  client.user.setPresence({ status: "online" }); //dnd, online, idle, offline
 
   let prevTime = null;
   setInterval(() => {
